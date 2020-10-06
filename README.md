@@ -6,18 +6,17 @@ This is a brief study of MySQL and SQLite, submitted by Steven Bowler
 
 # Program Documentation
 
-Initial setup in local directory of project
+Initial setup of MySQL in anaconda [here](https://anaconda.org/anaconda/mysql-connector-python)
 
 ````
-pip install pymysql
-pip install PyMySQL[ed25519]
+conda install -c anaconda mysql-connector-python
 ````
 
 
 Export country_club database from Springboard
 ````
 login to Springboard at sql.springboard.com
-export country_club database as country_club.sql
+export/download country_club database as country_club.sql
 ````
 
 
