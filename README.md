@@ -1,6 +1,6 @@
 ### Springboard Section 8.3 SQL mini-project
 
-This is a brief study of MySQL and SQLite, submitted by Steven Bowler
+This is a brief study of MySQL and SQLite with Jupyter notebooks, submitted by Steven Bowler.
 
 
 
